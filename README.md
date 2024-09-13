@@ -1,6 +1,6 @@
 # Exchange 
 
-Technologies: Next.js, Redis, Docker
+Technologies: Next.js, Node.js, Redis, Docker
 
 ## Overview
 
