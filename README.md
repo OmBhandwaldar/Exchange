@@ -1,4 +1,4 @@
-# Exchange Project
+# Exchange 
 
 Technologies: Next.js, Redis, Docker
 
